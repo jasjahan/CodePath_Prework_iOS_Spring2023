@@ -6,7 +6,7 @@
 
 Meet Me         | 
 :-------------------------:|
-![]()| 
+![](http://g.recordit.co/zUUaoumisx.gif)| 
 
 ### Required Features
 
